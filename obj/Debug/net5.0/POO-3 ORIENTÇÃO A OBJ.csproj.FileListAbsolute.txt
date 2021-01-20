@@ -1,0 +1,16 @@
+C:\Users\Leandro\Desktop\POO-3 ORIENTÇÃO A OBJ\bin\Debug\net5.0\POO-3 ORIENTÇÃO A OBJ.exe
+C:\Users\Leandro\Desktop\POO-3 ORIENTÇÃO A OBJ\bin\Debug\net5.0\POO-3 ORIENTÇÃO A OBJ.deps.json
+C:\Users\Leandro\Desktop\POO-3 ORIENTÇÃO A OBJ\bin\Debug\net5.0\POO-3 ORIENTÇÃO A OBJ.runtimeconfig.json
+C:\Users\Leandro\Desktop\POO-3 ORIENTÇÃO A OBJ\bin\Debug\net5.0\POO-3 ORIENTÇÃO A OBJ.runtimeconfig.dev.json
+C:\Users\Leandro\Desktop\POO-3 ORIENTÇÃO A OBJ\bin\Debug\net5.0\POO-3 ORIENTÇÃO A OBJ.dll
+C:\Users\Leandro\Desktop\POO-3 ORIENTÇÃO A OBJ\bin\Debug\net5.0\ref\POO-3 ORIENTÇÃO A OBJ.dll
+C:\Users\Leandro\Desktop\POO-3 ORIENTÇÃO A OBJ\bin\Debug\net5.0\POO-3 ORIENTÇÃO A OBJ.pdb
+C:\Users\Leandro\Desktop\POO-3 ORIENTÇÃO A OBJ\obj\Debug\net5.0\POO-3 ORIENTÇÃO A OBJ.csprojAssemblyReference.cache
+C:\Users\Leandro\Desktop\POO-3 ORIENTÇÃO A OBJ\obj\Debug\net5.0\POO-3 ORIENTÇÃO A OBJ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leandro\Desktop\POO-3 ORIENTÇÃO A OBJ\obj\Debug\net5.0\POO-3 ORIENTÇÃO A OBJ.AssemblyInfoInputs.cache
+C:\Users\Leandro\Desktop\POO-3 ORIENTÇÃO A OBJ\obj\Debug\net5.0\POO-3 ORIENTÇÃO A OBJ.AssemblyInfo.cs
+C:\Users\Leandro\Desktop\POO-3 ORIENTÇÃO A OBJ\obj\Debug\net5.0\POO-3 ORIENTÇÃO A OBJ.csproj.CoreCompileInputs.cache
+C:\Users\Leandro\Desktop\POO-3 ORIENTÇÃO A OBJ\obj\Debug\net5.0\POO-3 ORIENTÇÃO A OBJ.dll
+C:\Users\Leandro\Desktop\POO-3 ORIENTÇÃO A OBJ\obj\Debug\net5.0\ref\POO-3 ORIENTÇÃO A OBJ.dll
+C:\Users\Leandro\Desktop\POO-3 ORIENTÇÃO A OBJ\obj\Debug\net5.0\POO-3 ORIENTÇÃO A OBJ.pdb
+C:\Users\Leandro\Desktop\POO-3 ORIENTÇÃO A OBJ\obj\Debug\net5.0\POO-3 ORIENTÇÃO A OBJ.genruntimeconfig.cache
